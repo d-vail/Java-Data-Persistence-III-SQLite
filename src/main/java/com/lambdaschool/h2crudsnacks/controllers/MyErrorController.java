@@ -1,4 +1,4 @@
-package com.lambdaschool.h2crudsnacks;
+package com.lambdaschool.h2crudsnacks.controllers;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.http.HttpStatus;
